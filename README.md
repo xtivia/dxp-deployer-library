@@ -1,5 +1,3 @@
-[TOC]
-
 ### Liferay DXP Deployer Library
 
 This is a simple extraction/adaption of the code from the DXP tools (e.g., blade) developed by Liferay for programmatic control of the deployment of modules (JARs) into an OSGi container using the built-in GoGo shell. This project extracts the key code component associated with the deployment operations and wraps it with an easy-to-use Java API.
